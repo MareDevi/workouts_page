@@ -136,3 +136,7 @@ if __name__ == "__main__":
             os.remove(track.gpx_file_path)
         else:
             continue
+
+    run_strava_sync(
+        options.client_id, options.client_secret, options.strava_refresh_token
+    )
