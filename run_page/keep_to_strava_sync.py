@@ -22,7 +22,7 @@ My own best practices:
 KEEP2STRAVA_BK_PATH = os.path.join(OUTPUT_DIR, "keep2strava.json")
 
 
-def run_keep_sync(email, password, keep_sports_data_api, with_download_gpx=False):
+def run_keep_sync(email, password, keep_sports_data_api, with_download_gpx=True):
     if not os.path.exists(KEEP2STRAVA_BK_PATH):
         file = open(KEEP2STRAVA_BK_PATH, "w")
         file.close()
@@ -136,7 +136,3 @@ if __name__ == "__main__":
             os.remove(track.gpx_file_path)
         else:
             continue
-
-    run_strava_sync(
-        options.client_id, options.client_secret, options.strava_refresh_token
-    )
