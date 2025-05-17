@@ -590,5 +590,21 @@
 "elevation_gain": 74.3,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 14512434311,
+"name": "Afternoon Ride",
+"distance": 6444.8,
+"moving_time": "0:24:59",
+"type": "Ride",
+"start_date": "2025-05-17 08:49:43+00:00",
+"start_date_local": "2025-05-17 16:49:43",
+"location_country": "\u5317\u4eac\u90ae\u7535\u5927\u5b66\uff08\u6c99\u6cb3\u6821\u533a\uff09, \u56fd\u8109\u8def, \u677e\u5170\u5821\u6751, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, 102206, \u4e2d\u56fd",
+"summary_polyline": "ejbtFwlvdUb@^FXR|BDx@ARCD[Fy@Zm@PGHADB`@AQBM\\MVOxBq@hBu@\\G`@DZjANx@FHFEFIAQ}@mFc@wBa@{CiAoGIIc@QIA]R_DfAKBMCGIcCaOCa@BOPQvCoAb@WdAg@rFaCvBiA~Am@L@JVj@lDEREFcBt@MJINARvApIBNCLEHOHwBt@qAf@eCz@g@R_@TkAb@_Bf@OEEGES{BgNEi@DOJMbDsAZU~@c@xFeCrBgAzAm@LCJHFVd@nCBL?RGLED_Br@MJILAVxArI?TGLeG|BcBh@]Na@TuAh@qA`@QEEIEQm@oDoA_ICUBWLQzCqA`@W|@a@|FgClBcA~Aq@LCFBLVb@fCFh@ENEFcBt@MJILATxAvI?VGHOHeItCORGRARDb@T|@RnAPp@TnBRv@X|ANtALp@Fl@n@tCF`AHh@XnALfAz@nEAPI@^GBO?SMu@kByKe@yC{@kES}AEMQIM@MDaAf@g@JQHSLCRFh@_@N",
+"average_heartrate": 114.5,
+"average_speed": 4.299,
+"elevation_gain": 61.6,
+"source": "strava",
+"streak": 4
 }
 ]
