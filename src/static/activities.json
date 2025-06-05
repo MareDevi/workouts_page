@@ -846,5 +846,21 @@
 "elevation_gain": 57.3,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 14708475092,
+"name": "Night Ride",
+"distance": 8744.3,
+"moving_time": "0:26:49",
+"type": "Ride",
+"start_date": "2025-06-05 13:12:18+00:00",
+"start_date_local": "2025-06-05 21:12:18",
+"location_country": "\u9ad8\u6559\u56ed\u4e2d\u8857, \u4e30\u5584\u6751, \u660c\u5e73\u533a, \u5317\u4eac\u5e02, 102206, \u4e2d\u56fd",
+"summary_polyline": "mtbtFgztdUR|@ZdBf@hDt@hERzAAZWj@qAb@SJc@tAGr@@ZPpAv@vEBZAVO^MJe@Nk@J{Bx@kDhAi@NaAP{@V{@\\KTCR?v@BNPt@nAxHj@fEBVCPILa@RyA^u@Z_D~@ODO?KGO_@QyA_AyEa@aDEo@Ds@FONM`AWpBo@h@G|@Yd@QR?LFJPFRjApHr@dFPl@Ft@RpA|@`Ff@~CFp@\\fB`@rCNn@l@rEt@hE~@|F@\\GLUBeBIcAAsBQeCMQCQIGUiAgHiBoNoAqIUiBCcADSBChASv@YjA]x@Y~Ae@V@HJDPL~@d@`C~@|FFr@`AnFbAhHlBlL@\\GL[ByAIkAAwBS}BISCQKGUiAgHiBqNoAsISwAEqADSFEdAQnEwAjAc@POTe@@]CUOoAw@{Ek@oCIcAKo@?UBM\\Mb@IvAa@`@SpBo@v@Uf@SjA]`EwArDcApCcAp@[NMNURe@Hq@?UuAkIKWOSe@_@i@KU@mA\\a@e@KWqB}Lu@sF_@{B?SHMLIt@YtBe@lF}AtAc@h@OrC_Ad@Sp@SF[@_@Gu@_@cCg@qC_@{AQmBw@}DEc@Mk@MgAQk@a@yCKc@c@G[JYN{Aj@MTBb@ANEBSD",
+"average_heartrate": 135.9,
+"average_speed": 5.435,
+"elevation_gain": 4.9,
+"source": "strava",
+"streak": 1
 }
 ]
